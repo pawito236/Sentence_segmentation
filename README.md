@@ -4,6 +4,3 @@ and predicting O(outside) and I(Interior). The idea is if we know where the O ta
 B(begin) and E(end) tag too.
 ## References and Related repos
 [pythainlp.tokenize.crfcut](https://pythainlp.github.io/dev-docs/_modules/pythainlp/tokenize/crfcut.html) CRFCut - Thai sentence segmenter.
-
-## Medium
-
